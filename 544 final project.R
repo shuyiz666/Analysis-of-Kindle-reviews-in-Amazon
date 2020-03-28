@@ -69,7 +69,7 @@ r <- sample(k,1)
 s <- seq(r, by = k, length = n)
 sample <- data[s]
 hist(sample)
-
+ 
 
 
 
